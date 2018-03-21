@@ -1,3 +1,8 @@
+This respository is for the research of random number generation methods and discovering how random they actually are.
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alexlee215/randomNumGen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
